@@ -16,4 +16,4 @@ public class SumaImpares {
 
         System.out.println("La suma de todos los números impares desde 1 hasta " + num + " es: " + suma);
     }
-
+}
