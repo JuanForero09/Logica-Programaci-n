@@ -26,4 +26,4 @@ public class Main {
         // Mostrar los resultados
         System.out.println("Hay " + countPos + " números positivos y " + countNeg + " números negativos.");
     }
-
+}
