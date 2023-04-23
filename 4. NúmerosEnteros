@@ -14,4 +14,4 @@ public class NumerosEnteros {
 
         System.out.println("La suma de los números ingresados es: " + sum);
     }
-
+}
