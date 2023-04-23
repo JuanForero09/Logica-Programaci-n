@@ -16,4 +16,4 @@ public class ContarLetras {
 
         System.out.println("La letra 'a' aparece " + contador + " veces en la cadena introducida.");
     }
-}
+
